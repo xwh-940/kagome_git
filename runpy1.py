@@ -58,7 +58,7 @@ if test == 0:
     # run(mu=0.05,u0=2.5)
     # run(mu=0.05,u0=2.0)
     # run(mu=2.2,u0=1.5)
-    run(mu=0.3,u0=3.0)
+    # run(mu=0.3,u0=3.0)
 
 if test == 1:
     "true compute"
